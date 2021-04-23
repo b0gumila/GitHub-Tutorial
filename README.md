@@ -25,13 +25,14 @@ Fork | copy of repo that stays on your Github account
 Push (or Push Request) | sending commits to your repo
 Merge | changes from one branch and applies it into another
 
-<font size="-0.5">*the cool kids say 'repo'</font>
+*the cool kids say 'repo'
+<br>
+
 
 <b>Download Git</b>
 
 https://git-scm.com/downloads
 
-<br><br>
 <b>Let's connect to RStudio! </b>
 
 https://happygitwithr.com/rstudio-git-github.html
