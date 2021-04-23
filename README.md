@@ -1,1 +1,1 @@
-# github_tutorial
+# Github Tutorial for Cadenasso Lab (UC Davis)
