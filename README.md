@@ -16,7 +16,7 @@ Branch: parallel version of a repo
 
 Fetch: obtaining latest changes
 
-Fork: copy of repo that says on your Github account
+Fork: copy of repo that stays on your Github account
 
 Push (or Push Request): sending commits to your repo
 
