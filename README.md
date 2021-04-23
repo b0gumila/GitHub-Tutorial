@@ -36,3 +36,10 @@ https://git-scm.com/downloads
 <b>Let's connect to RStudio! </b>
 
 https://happygitwithr.com/rstudio-git-github.html
+
+
+<b>My favorite repos:</b>
+
+https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt
+
+
