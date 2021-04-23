@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=w3jLJU7DT5E&t=1s
 
 Term | Definition
 ------------ | -------------
-Repository (“repo”) | project folder with files, documentation & revision history
+Repository* | project folder with files, documentation & revision history
 Commit | revision / ‘saving’ a file
 Clone | copy of a repo
 Branch | parallel version of a repo
@@ -24,7 +24,8 @@ Fetch | obtaining latest changes
 Fork | copy of repo that stays on your Github account
 Push (or Push Request) | sending commits to your repo
 Merge | changes from one branch and applies it into another
-<br><br>
+
+<font size="-0.5">*the cool kids say 'repo'</font>
 
 <b>Download Git</b>
 
