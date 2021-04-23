@@ -2,17 +2,12 @@
 
 <b>Agenda</b>
 
-What is Github? Git?
-
-Understanding the terminology
-
-Showoff Github.com
-
-Show how Github & Git & R Studio work together
-
-Install Git and connect to R Studio
-
-All work on an example together
+1. What is Github? Git?
+2. Understanding the terminology
+3. Showoff Github.com
+4. Show how Github & Git & R Studio work together
+5. Install Git and connect to R Studio
+6. All work on an example together
 
 <br>
 <b>What is Github?</b><br>
