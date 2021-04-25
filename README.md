@@ -1,4 +1,4 @@
-# Github Tutorial for Cadenasso Lab (UC Davis)
+# Github Tutorial for the Cadenasso Lab at UC Davis
 
 <b>Agenda</b>
 
@@ -6,8 +6,8 @@
 2. Understanding the terminology
 3. Showoff Github.com
 4. Show how Github & Git & R Studio work together
-5. Install Git and connect to R Studio
-6. All work on an example together
+5. Have the lab install Git and connect to R Studio
+6. All work on an two examples together
 
 <br>
 <b>What is Github?</b><br>
@@ -28,7 +28,20 @@ Merge | changes from one branch and applies it into another
 *the cool kids say 'repo'
 <br>
 
+<b>First lab exercise</b>
+1. Clone this repo
+2. Open it in RStudio
+3. Open the 'insert data' dataset and R code
+4. Commit changes and push
 
+<br>
+
+<b>Second lab exercise</b>
+1. Create a repo on Github
+2. Create an R file in RStudio
+3. Commit changes and push 
+
+<br>
 <b>Download Git</b>
 
 https://git-scm.com/downloads
