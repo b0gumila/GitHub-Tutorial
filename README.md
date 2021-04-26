@@ -51,10 +51,14 @@ Fetch | refresh / getting latest changes
 <b>Download Git: </b> https://git-scm.com/downloads
 
 <b>Connect to Git: </b>https://happygitwithr.com/hello-git.html#hello-git<br>
+>git config --global user.name 'Jane Doe'<br>
+>git config --global user.email 'jane@example.com'<br>
+>git config --global --list<br><br>
+
+<b>Connect Git to RStudio: </b> https://happygitwithr.com/rstudio-git-github.html <br>
 >PC: .../Local/Programs/Git/bin/git.exe<br>
 >Mac: .../usr/local/bin/git.exe<br>
 
-<b>Connect Git to RStudio: </b> https://happygitwithr.com/rstudio-git-github.html <br>
 <b>Markdown Cheatsheet:</b> https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf<br>
 <b>Github Desktop:</b> https://desktop.github.com/<br>
 <b>For a laugh:</b> https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt
