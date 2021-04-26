@@ -31,8 +31,9 @@ Fetch | refresh / getting latest changes
 
 <b>First lab exercise</b>
 1. Create your own repo on Github
-2. Create an R file in RStudio
-3. Commit changes and push 
+2. Clone it to RStudio
+3. Create an R file in RStudio
+4. Commit changes and push 
 
 
 <b>Second lab exercise</b>
