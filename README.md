@@ -14,6 +14,8 @@
 https://www.youtube.com/watch?v=w3jLJU7DT5E&t=1s
 <br><br>
 
+<b>Terminology:</b>
+
 Term | Definition
 ------------ | -------------
 Repository (repo) | project folder with files, documentation & revision history
