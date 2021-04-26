@@ -5,9 +5,9 @@
 1. What is Github? Git?
 2. Understanding the terminology
 3. Showoff Github.com
-4. Show how Github & Git & R Studio work together
-5. Have the lab install Git and connect to R Studio
-6. All work on an two examples together!
+4. Show how Github & Git & R Studio all work together
+5. Have the lab install Git and connect to R Studio (*fingers crossed this works*)
+6. All work on 2 examples together!
 
 <br>
 <b>What is Github?</b><br>
