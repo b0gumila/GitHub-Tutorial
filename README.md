@@ -44,8 +44,7 @@ Fetch | refresh / getting latest changes
 <br>
 <b>Download Git: </b> https://git-scm.com/downloads
 
-<b>Let's connect to RStudio: </b> https://happygitwithr.com/rstudio-git-github.html
-
+<b>Let's connect to RStudio: </b> https://happygitwithr.com/rstudio-git-github.html <br>
 <b>For a laugh:</b> https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt
 
 
