@@ -55,6 +55,6 @@ Fetch | refresh / getting latest changes
 >Mac: .../usr/local/bin/git.exe<br>
 
 <b>Connect Git to RStudio: </b> https://happygitwithr.com/rstudio-git-github.html <br>
-<b>For a laugh:</b> https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt
-<b>Markdown Cheatsheet:</b> https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
+<b>For a laugh:</b> https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt<br>
+<b>Markdown Cheatsheet:</b> https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf<br>
+<b>Github Desktop:</b> https://desktop.github.com/
