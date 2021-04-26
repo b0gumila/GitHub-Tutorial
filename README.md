@@ -53,8 +53,10 @@ Fetch | refresh / getting latest changes
 <b>Connect to Git: </b>https://happygitwithr.com/hello-git.html#hello-git<br>
 >git config --global user.name 'Jane Doe'<br>
 >git config --global user.email 'jane@example.com'<br>
->git config --global --list<br><br>
+>git config --global --list<br>
 
+Alternative using RStudio: https://happygitwithr.com/hello-git.html#hello-git
+<br><br>
 <b>Connect Git to RStudio: </b> https://happygitwithr.com/rstudio-git-github.html <br>
 >PC: .../Local/Programs/Git/bin/git.exe<br>
 >Mac: .../usr/local/bin/git.exe<br>
