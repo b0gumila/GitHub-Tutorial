@@ -51,7 +51,10 @@ Fetch | refresh / getting latest changes
 <b>Download Git: </b> https://git-scm.com/downloads
 
 <b>Connect to Git: </b>https://happygitwithr.com/hello-git.html#hello-git<br>
+>PC: .../Local/Programs/Git/bin/git.exe<br>
+>Mac: .../usr/local/bin/git.exe<br>
+
 <b>Connect Git to RStudio: </b> https://happygitwithr.com/rstudio-git-github.html <br>
 <b>For a laugh:</b> https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt
-
+<b>Markdown Cheatsheet:</b> https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
