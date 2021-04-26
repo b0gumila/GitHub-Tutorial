@@ -18,7 +18,7 @@ Term | Definition
 ------------ | -------------
 Repository (repo) | project folder with files, documentation & revision history
 Commit | revision / ‘saving’ a file
-Clone | copy of a repo that stays on your computer
+Clone | copy of a repo that's local
 Fork | copy of repo that stays on your Github account
 Branch | parallel version of a repo
 Push | sending commits to your repo
