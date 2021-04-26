@@ -22,13 +22,13 @@ Clone | copy of a repo that's local
 Fork | copy of repo that stays on your Github account
 Branch | parallel version of a repo
 Push | sending commits to your repo
-Merge | changes from one branch and applies it into another
-Fetch | getting latest changes
+Merge | the changes from one branch are applied to another
+Fetch | refresh / getting latest changes
 
 <br>
 
 <b>First lab exercise</b>
-1. Create a repo on Github
+1. Create your own repo on Github
 2. Create an R file in RStudio
 3. Commit changes and push 
 
@@ -41,18 +41,11 @@ Fetch | getting latest changes
 
 <br>
 <b>Helpful Links:</b>
+<br>
+<b>Download Git: </b> https://git-scm.com/downloads
 
-<b>Download Git</b>
+<b>Let's connect to RStudio:</b> </bhttps://happygitwithr.com/rstudio-git-github.html
 
-https://git-scm.com/downloads
-
-<b>Let's connect to RStudio! </b>
-
-https://happygitwithr.com/rstudio-git-github.html
-
-
-<b>For a laugh:</b>
-
-https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt
+<b>For a laugh:</b> https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt
 
 
