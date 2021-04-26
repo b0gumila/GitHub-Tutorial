@@ -40,7 +40,7 @@ Fetch | refresh / getting latest changes
 1. Fork and clone this repo
 2. Open RStudio and edit the R file
 3. Commit changes and push
-4. Create a push request
+4. Create a pull request
 
 <br>
 <b>Helpful Links:</b>
