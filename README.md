@@ -19,14 +19,14 @@ https://www.youtube.com/watch?v=w3jLJU7DT5E&t=1s
 Term | Definition
 ------------ | -------------
 Repository (repo) | project folder with files, documentation & revision history
-Commit | revision / ‘saving’ a file
-Push | sending commits to your repo
+Issue | dicussion thread
 Clone | copy of a repo that's local
 Fork | copy of repo that stays on your Github account
 Branch | parallel version of a repo
-Merge | the changes from one branch are applied to another
+Commit | revision / ‘saving’ a file
+Push | sending commits to your repo
 Pull request | tells others about changes you've pushed/proposing
-Issue | dicussion thread
+Merge | the changes from one branch are applied to another
 Fetch | refresh / getting latest changes
 
 <br>
