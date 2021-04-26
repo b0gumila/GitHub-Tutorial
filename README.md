@@ -25,6 +25,7 @@ Fork | copy of repo that stays on your Github account
 Branch | parallel version of a repo
 Push | sending commits to your repo
 Merge | the changes from one branch are applied to another
+Pull request | tells others about changes you've pushed
 Fetch | refresh / getting latest changes
 
 <br>
@@ -41,6 +42,7 @@ Fetch | refresh / getting latest changes
 2. Open RStudio and edit the R file
 3. Commit changes and push
 4. Create a pull request
+5. Merge to base branch 
 
 <br>
 <b>Helpful Links:</b>
