@@ -25,7 +25,8 @@ Fork | copy of repo that stays on your Github account
 Branch | parallel version of a repo
 Push | sending commits to your repo
 Merge | the changes from one branch are applied to another
-Pull request | tells others about changes you've pushed
+Pull request | tells others about changes you've pushed/proposing
+Issue | dicussion thread
 Fetch | refresh / getting latest changes
 
 <br>
