@@ -7,7 +7,7 @@
 3. Showoff Github.com
 4. Show how Github & Git & R Studio work together
 5. Have the lab install Git and connect to R Studio
-6. All work on an two examples together
+6. All work on an two examples together!
 
 <br>
 <b>What is Github?</b><br>
@@ -16,32 +16,32 @@ https://www.youtube.com/watch?v=w3jLJU7DT5E&t=1s
 
 Term | Definition
 ------------ | -------------
-Repository* | project folder with files, documentation & revision history
+Repository (repo) | project folder with files, documentation & revision history
 Commit | revision / ‘saving’ a file
-Clone | copy of a repo
-Branch | parallel version of a repo
-Fetch | obtaining latest changes
+Clone | copy of a repo that stays on your computer
 Fork | copy of repo that stays on your Github account
-Push (or Push Request) | sending commits to your repo
+Branch | parallel version of a repo
+Push | sending commits to your repo
 Merge | changes from one branch and applies it into another
+Fetch | getting latest changes
 
-*the cool kids say 'repo'
 <br>
 
 <b>First lab exercise</b>
-1. Clone this repo
-2. Open it in RStudio
-3. Open the 'insert data' dataset and R code
-4. Commit changes and push
-
-<br>
-
-<b>Second lab exercise</b>
 1. Create a repo on Github
 2. Create an R file in RStudio
 3. Commit changes and push 
 
+
+<b>Second lab exercise</b>
+1. Fork and clone this repo
+2. Open RStudio and edit the R file
+3. Commit changes and push
+4. Create a push request
+
 <br>
+<b>Helpful Links:</b>
+
 <b>Download Git</b>
 
 https://git-scm.com/downloads
@@ -51,7 +51,7 @@ https://git-scm.com/downloads
 https://happygitwithr.com/rstudio-git-github.html
 
 
-<b>My favorite repos:</b>
+<b>For a laugh:</b>
 
 https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt
 
