@@ -10,9 +10,7 @@
 6. All work on 2 examples together!
 
 <br>
-<b>What is 
-  
-  ?</b><br>
+<b>What is GitHub?</b><br>
 https://www.youtube.com/watch?v=w3jLJU7DT5E&t=1s
 <br><br>
 
