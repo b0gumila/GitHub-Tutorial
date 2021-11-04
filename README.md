@@ -1,16 +1,18 @@
-# Github Tutorial for the Cadenasso Lab at UC Davis
+# GitHub Tutorial for the Cadenasso Lab at UC Davis
 
 <b>Agenda</b>
 
-1. What is Github? Git?
+1. What is GitHub? Git?
 2. Understanding the terminology
 3. Showoff Github.com
-4. Show how Github & Git & R Studio all work together
+4. Show how GitHub & Git & R Studio all work together
 5. Have the lab install Git and connect to R Studio (*fingers crossed this works*)
 6. All work on 2 examples together!
 
 <br>
-<b>What is Github?</b><br>
+<b>What is 
+  
+  ?</b><br>
 https://www.youtube.com/watch?v=w3jLJU7DT5E&t=1s
 <br><br>
 
@@ -21,7 +23,7 @@ Term | Definition
 Repository (repo) | project folder with files, documentation & revision history
 Issue | dicussion thread
 Clone | copy of a repo that's local
-Fork | copy of repo that stays on your Github account
+Fork | copy of repo that stays on your GitHub account
 Branch | parallel version of a repo
 Commit | revision / ‘saving’ a file
 Push | sending commits to your repo
@@ -32,7 +34,7 @@ Fetch | refresh / getting latest changes
 <br>
 
 <b>First lab exercise</b>
-1. Create your own repo on Github
+1. Create your own repo on GitHub
 2. Clone it to RStudio
 3. Create an R file in RStudio
 4. Commit changes and push 
